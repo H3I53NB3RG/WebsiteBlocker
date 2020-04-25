@@ -1,5 +1,5 @@
-#### WebsiteBlocker
+# WebsiteBlocker
 
 - This Script Doesn't Work On Windows
 
-# How To Use :
+### How To Use :
