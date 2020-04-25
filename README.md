@@ -4,7 +4,7 @@
 
 ### How To Use :
 
-- Put The Websites You Want To Block In websiteList.txt 
+- Put The Websites You Want To Block In ```websiteList.txt```
 - Open The Terminal And Run This Command ```python3 WebsiteBlocker.py```
 - Choose The Hours You Want To Block These Web Sites At
 
