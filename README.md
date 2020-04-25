@@ -9,4 +9,4 @@
 - Choose The Hours You Want To Block These Web Sites At
 
 #### Note :
-The Hours Should Be From 1 To 24, So There's No PM or AM
+- The Hours Should Be From 1 To 24, So There's No PM or AM
