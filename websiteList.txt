@@ -1,1 +1,6 @@
-
+# Put Each Web Site You Want To Block In a New Line
+# You Can't Put More Than Web Site In The Same Line
+# Note That EVery Line Starts With "#" Will Be Ignored
+# For Example :
+# www.google.com
+# Google Won't Be Blocked Because The Line Started With "#"
